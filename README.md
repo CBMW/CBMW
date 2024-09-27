@@ -1,5 +1,3 @@
-Hi! 
-
 My name is Cody Williams and I'm obsessed with programming and cybersecurity.  
 
 Contact:  
