@@ -3,3 +3,4 @@ I'm a Python enthusiast and CLI tool developer with a growing passion for web de
 <p align="center">📧 Email: CBMW@proton.me  </p>
 <p align="center">💼 LinkedIn: linkedin.com/in/cbmw  </p>
 <p align="center">🎮 Discord: mr_dubai  </p>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3311484" style='border:none;'></iframe>
