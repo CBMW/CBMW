@@ -9,6 +9,7 @@ I'm a software developer and cyber security researcher with a growing passion fo
 </p>
 <p align="center">CONTACT:</p>
 <p align="center"><img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white">  
-  CBMW@proton.me  </p>
+  
+CBMW@proton.me  </p>
 <p align="center">💼 LinkedIn: linkedin.com/in/cbmw  </p>
 <p align="center">🎮 Discord: mr_dubai  </p>
