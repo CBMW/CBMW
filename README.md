@@ -63,7 +63,7 @@ Let's connect and create something innovative together!
 
 ---
 </div>
-## 🌐 Connect with Me
+🌐 Connect with Me 🌐 
 
 <div align="center">
 
