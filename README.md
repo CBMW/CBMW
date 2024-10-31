@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Cody Williams
+# 👋 I'm Cody Williams
 
 I'm a **software developer** and **cybersecurity researcher** with a growing passion for **web development** and **penetration testing**. I love building efficient scripts and finding creative solutions to complex problems. Always keen to learn, I'm on a journey to master programming and deepen my understanding of cybersecurity while creating useful and secure tools.
 
@@ -65,25 +65,28 @@ Let's connect and create something innovative together!
 </div>
 ## 🌐 Connect with Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/cbmw" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-  </a> 
-  <span><a href="https://www.linkedin.com/in/cbmw">linkedin.com/in/cbmw</a></span>💼 
+  </a>
+  <br>
+  💼 <a href="https://www.linkedin.com/in/cbmw">linkedin.com/in/cbmw</a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="mailto:CBMW@proton.me" target="_blank">
     <img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Me">
-  </a> 
-  <span><a href="mailto:CBMW@proton.me">CBMW@proton.me</a></span>📧 
+  </a>
+  <br>
+  📧 <a href="mailto:CBMW@proton.me">CBMW@proton.me</a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://discord.com/users/mr_dubai" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile">
-  </a> 
-  <span>mr_dubai</span>🎮 
+  </a>
+  <br>
+  🎮 mr_dubai
 </p>
 
 ---
