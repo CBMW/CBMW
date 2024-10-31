@@ -65,31 +65,25 @@ Let's connect and create something innovative together!
 </div>
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://tryhackme.com/p/cbmw" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/cbmw.png" alt="TryHackMe Profile">
-  </a>
-</p>
-
 <p align="left">
   <a href="https://www.linkedin.com/in/cbmw" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
   </a> 
-  <span>💼 <a href="https://www.linkedin.com/in/cbmw">linkedin.com/in/cbmw</a></span>
+  <span><a href="https://www.linkedin.com/in/cbmw">linkedin.com/in/cbmw</a></span>💼 
 </p>
 
 <p align="left">
   <a href="mailto:CBMW@proton.me" target="_blank">
     <img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Me">
   </a> 
-  <span>📧 <a href="mailto:CBMW@proton.me">CBMW@proton.me</a></span>
+  <span><a href="mailto:CBMW@proton.me">CBMW@proton.me</a></span>📧 
 </p>
 
 <p align="left">
   <a href="https://discord.com/users/mr_dubai" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Profile">
   </a> 
-  <span>🎮 mr_dubai</span>
+  <span>mr_dubai</span>🎮 
 </p>
 
 ---
