@@ -5,7 +5,7 @@ I'm a **software developer** and **cybersecurity researcher** with a growing pas
 Let's connect and create something innovative together!
 
 ---
-
+<div align="center">
 ## 🛠️ Languages & Tools
 
 ### ⚙️ Operating Systems
@@ -59,6 +59,7 @@ Let's connect and create something innovative together!
 ![Dogecoin](https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white)
 
 ---
+</div>
 
 ## 🌐 Connect with Me
 <p align="center">
