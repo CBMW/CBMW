@@ -7,7 +7,7 @@ I'm a software developer and cyber security researcher with a growing passion fo
 
   <img src="https://tryhackme-badges.s3.amazonaws.com/cbmw.png" alt="THM" />
 </p>
-<p align="center">CONTACT:
+<p align="center">CONTACT:  
 <img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white">  
   
 CBMW@proton.me  </p>
