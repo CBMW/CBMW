@@ -97,6 +97,6 @@ Let's connect and create something innovative together!
 
 <div align="center">
   <a href="https://tryhackme.com/p/cbmw" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/cbmw.png" alt="TryHackMe Badge" />
+    <img src="https://tryhackme-badges.s3.amazonaws.com/cbmw.png" alt="Your Image Badge" />
   </a>
 </div>
