@@ -75,16 +75,8 @@ Let's connect and create something innovative together!
 ### 🌐 Connect with Me 🌐
 
 <div>
-
   <p>
-    <a href="https://www.linkedin.com/in/cbmw" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
-    </a>
-    <br>
-  </p>
-
-  <p>
-    <a href="mailto:CBMW@proton.me" target="_blank">
+    <a href="mailto:president@unecsc.com" target="_blank">
       <img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Me">
     </a>
     <br>
