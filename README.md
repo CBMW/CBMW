@@ -61,9 +61,9 @@ Let's connect and create something innovative together!
 ![Litecoin](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)
 ![Dogecoin](https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white)
 
----
-<!-- CONTACT ME SECTION -->
 </div>
+<!-- CONTACT ME SECTION -->
+
 <style>
   .contact-card {
     background-color: #f9f9f9;
