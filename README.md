@@ -65,7 +65,7 @@ Let's connect and create something innovative together!
 
 ---
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/cbmw.png" alt="THM" />
+<img align="center" "centersrc="https://tryhackme-badges.s3.amazonaws.com/cbmw.png" alt="THM" />
 
 ---
 
@@ -73,7 +73,7 @@ Let's connect and create something innovative together!
 
 ### 🌐 Connect with Me 🌐
 
-<div align=>
+<div>
 
   <p>
     <a href="https://www.linkedin.com/in/cbmw" target="_blank">
@@ -97,5 +97,3 @@ Let's connect and create something innovative together!
   </p>
 
 </div>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/cbmw.png" alt="THM" />
