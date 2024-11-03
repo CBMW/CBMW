@@ -62,7 +62,8 @@ Let's connect and create something innovative together!
 ![Dogecoin](https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white)
 
 </div>
-
+---
+<img src="https://tryhackme-badges.s3.amazonaws.com/cbmw.png" alt="THM" />
 ---
 
 <!-- CONTACT ME SECTION -->
