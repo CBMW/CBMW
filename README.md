@@ -66,7 +66,7 @@ Let's connect and create something innovative together!
 
 ### 🌐 Connect with Me 🌐
 
-<div align="center">
+<div>
 
   <p>
     <a href="https://www.linkedin.com/in/cbmw" target="_blank">
