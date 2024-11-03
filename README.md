@@ -65,7 +65,8 @@ Let's connect and create something innovative together!
 
 ---
 
-<img align="center" "centersrc="https://tryhackme-badges.s3.amazonaws.com/cbmw.png" alt="THM" />
+
+<div align="center"><img src="centersrc="https://tryhackme-badges.s3.amazonaws.com/cbmw.png" alt="THM" /></div>
 
 ---
 
