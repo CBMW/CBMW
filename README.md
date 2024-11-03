@@ -62,7 +62,9 @@ Let's connect and create something innovative together!
 ![Dogecoin](https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white)
 
 </div>
+
 ---
+
 <!-- CONTACT ME SECTION -->
 
 ### 🌐 Connect with Me 🌐
