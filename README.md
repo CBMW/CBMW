@@ -94,3 +94,4 @@ Let's connect and create something innovative together!
 
 </div>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/cbmw.png" alt="TryHackMe Badge" width="220"/>
