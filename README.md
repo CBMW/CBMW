@@ -93,8 +93,8 @@ Let's connect and create something innovative together!
 
 <div>
 ** PGP:
-  <p>
------BEGIN PGP PUBLIC KEY BLOCK-----
+```plaintext
+-----BEGIN PGP PUBLIC KEY BLOCK-----  
 mQGNBGc0qc4BDAC5CXT0Vh6dw1FY/ZoUecKRPyaRAf1ivcy4P+ZA9/MERf4fdqrX
 X8DpEjTRSsXvqNSPe74xjOmEHO28ITk84Kc0E+G2ZikOYcz4uPrKxpJaq4pBScJ1
 kj/WMNFWLIdUCIzlsf43naozODyx6Wnzd1oHkpe+kz8/PzegX00jQQFG1Fc6G2ew
@@ -134,5 +134,4 @@ tEx+eXPWFuiq5S6s2owM1U+3MNg/RuiKXg+30mx5IPQf+PR1xF2Lzyhr7hYcA8yt
 gzGHet0J89hiXVem+K8w9K0=
 =zN9m
 -----END PGP PUBLIC KEY BLOCK-----
-  </p>
 </div>
