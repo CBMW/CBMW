@@ -1,4 +1,4 @@
-# 👋 I'm Cody Williams
+# 👋 I'm Cody
 
 I'm a **software developer** and **cybersecurity researcher** with a growing passion for **automation, web development** and **penetration testing**. I love building efficient scripts and finding creative solutions to complex problems. Always keen to learn, I'm on a journey to master programming and deepen my understanding of cybersecurity while creating useful and secure tools.
 
