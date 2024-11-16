@@ -1,6 +1,6 @@
 # 👋 I'm Cody Williams
 
-I'm a **software developer** and **cybersecurity researcher** with a growing passion for **automation development** and **penetration testing**. I love building efficient scripts and finding creative solutions to complex problems. Always keen to learn, I'm on a journey to master programming and deepen my understanding of cybersecurity while creating useful and secure tools.
+I'm a **software developer** and **cybersecurity researcher** with a growing passion for **automation, web development** and **penetration testing**. I love building efficient scripts and finding creative solutions to complex problems. Always keen to learn, I'm on a journey to master programming and deepen my understanding of cybersecurity while creating useful and secure tools.
 
 Let's connect and create something innovative together!
 
@@ -23,6 +23,7 @@ Let's connect and create something innovative together!
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-181818?style=for-the-badge&logo=csharp&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
@@ -36,6 +37,7 @@ Let's connect and create something innovative together!
 ![MongoDB](https://img.shields.io/badge/MongoDB-181818?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### 🖥️ Development Tools 🖥️ 
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
@@ -51,7 +53,7 @@ Let's connect and create something innovative together!
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
 ![OpenJDK](https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
 
 ### 💰 Cryptocurrency 💰 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
