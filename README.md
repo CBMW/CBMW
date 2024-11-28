@@ -7,7 +7,6 @@
 ---
 <div align="center">
 
-### ⚙️ **Operating Systems**
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-101010?style=for-the-badge&logo=ubuntu&logoColor=00FF00)
 ![Debian](https://img.shields.io/badge/Debian-101010?style=for-the-badge&logo=debian&logoColor=00FF00)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-101010?style=for-the-badge&logo=kali-linux&logoColor=00FF00)
