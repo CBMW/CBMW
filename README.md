@@ -2,7 +2,7 @@
   <h1>Cody:CBMW:Dubai</h1>
   <p><strong>software developer</strong> and <strong>cybersecurity researcher</strong> with a growing passion for <strong>automation, web development</strong> and <strong>penetration testing</strong>.</p>
 </div>
-
+<div align=center>
 ---
 ### ⚙️ Operating Systems ⚙️
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
@@ -65,7 +65,7 @@
 ![Dogecoin](https://img.shields.io/badge/dogecoin-C2A633?style=for-the-badge&logo=dogecoin&logoColor=white)
 
 ---
-
+</div>
 
 <div align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/cbmw.png" alt="TryHackMe" /></div>
 
