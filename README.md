@@ -5,10 +5,9 @@
 </div>
 
 ---
-<div align=center>
+<div align="center" style="background-color: #101010; padding: 20px; border-radius: 10px;">
 
-
-### ⚙️ Operating Systems ⚙️
+<h3 style="font-family: 'Courier New', monospace; color: #00FF00; background-color: #101010; border: 2px solid #00FF00; padding: 10px; display: inline-block;">⚙️ Operating Systems ⚙️</h3>
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-101010?style=for-the-badge&logo=ubuntu&logoColor=00FF00)
 ![Debian](https://img.shields.io/badge/Debian-101010?style=for-the-badge&logo=debian&logoColor=00FF00)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-101010?style=for-the-badge&logo=kali-linux&logoColor=00FF00)
@@ -17,8 +16,7 @@
 ![iOS](https://img.shields.io/badge/iOS-101010?style=for-the-badge&logo=ios&logoColor=00FF00)
 ![Android](https://img.shields.io/badge/Android-101010?style=for-the-badge&logo=android&logoColor=00FF00)
 
-
-### 💻 Programming and Scripting 💻
+<h3 style="font-family: 'Courier New', monospace; color: #00FF00; background-color: #101010; border: 2px solid #00FF00; padding: 10px; display: inline-block;">💻 Programming and Scripting 💻</h3>
 ![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=00FF00)
 ![Java](https://img.shields.io/badge/Java-101010?style=for-the-badge&logo=openjdk&logoColor=00FF00)
 ![R](https://img.shields.io/badge/R-101010?style=for-the-badge&logo=r&logoColor=00FF00)
@@ -29,16 +27,14 @@
 ![JSON](https://img.shields.io/badge/json-101010?style=for-the-badge&logo=json&logoColor=00FF00)
 ![Powershell](https://img.shields.io/badge/Powershell-101010?style=for-the-badge&logo=powershell&logoColor=00FF00)
 
-
-### 🗄️ Databases 🗄️
+<h3 style="font-family: 'Courier New', monospace; color: #00FF00; background-color: #101010; border: 2px solid #00FF00; padding: 10px; display: inline-block;">🗄️ Databases 🗄️</h3>
 ![MySQL](https://img.shields.io/badge/MySQL-101010?style=for-the-badge&logo=mysql&logoColor=00FF00)
 ![SQLite](https://img.shields.io/badge/SQLite-101010?style=for-the-badge&logo=sqlite&logoColor=00FF00)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101010?style=for-the-badge&logo=postgresql&logoColor=00FF00)
 ![Supabase](https://img.shields.io/badge/Supabase-101010?style=for-the-badge&logo=supabase&logoColor=00FF00)
 ![MongoDB](https://img.shields.io/badge/MongoDB-101010?style=for-the-badge&logo=mongodb&logoColor=00FF00)
 
-
-### 🖥️ Development Tools 🖥️
+<h3 style="font-family: 'Courier New', monospace; color: #00FF00; background-color: #101010; border: 2px solid #00FF00; padding: 10px; display: inline-block;">🖥️ Development Tools 🖥️</h3>
 ![Git](https://img.shields.io/badge/GIT-101010?style=for-the-badge&logo=git&logoColor=00FF00)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-101010?style=for-the-badge&logo=visual%20studio%20code&logoColor=00FF00)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-101010?style=for-the-badge&logo=intellij-idea&logoColor=00FF00)
@@ -47,23 +43,19 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-101010?style=for-the-badge&logo=eclipse&logoColor=00FF00)
 ![RStudio](https://img.shields.io/badge/RStudio-101010?style=for-the-badge&logo=rstudio&logoColor=00FF00)
 
-
-### 🔐 Cybersecurity Tools & Platforms 🔐
+<h3 style="font-family: 'Courier New', monospace; color: #00FF00; background-color: #101010; border: 2px solid #00FF00; padding: 10px; display: inline-block;">🔐 Cybersecurity Tools & Platforms 🔐</h3>
 ![Wireshark](https://img.shields.io/badge/Wireshark-101010?style=for-the-badge&logo=wireshark&logoColor=00FF00)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-101010?style=for-the-badge&logo=burpsuite&logoColor=00FF00)
 ![Metasploit](https://img.shields.io/badge/Metasploit-101010?style=for-the-badge&logo=metasploit&logoColor=00FF00)
 ![Tor Browser](https://img.shields.io/badge/Tor_Browser-101010?style=for-the-badge&logo=torbrowser&logoColor=00FF00)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-101010?style=for-the-badge&logo=tryhackme&logoColor=00FF00)
 
-
-### 💰 Cryptocurrency 💰
+<h3 style="font-family: 'Courier New', monospace; color: #00FF00; background-color: #101010; border: 2px solid #00FF00; padding: 10px; display: inline-block;">💰 Cryptocurrency 💰</h3>
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-101010?style=for-the-badge&logo=bitcoin&logoColor=00FF00)
 ![Ethereum](https://img.shields.io/badge/Ethereum-101010?style=for-the-badge&logo=ethereum&logoColor=00FF00)
 ![Monero](https://img.shields.io/badge/Monero-101010?style=for-the-badge&logo=monero&logoColor=00FF00)
 ![Litecoin](https://img.shields.io/badge/Litecoin-101010?style=for-the-badge&logo=litecoin&logoColor=00FF00)
 ![Dogecoin](https://img.shields.io/badge/Dogecoin-101010?style=for-the-badge&logo=dogecoin&logoColor=00FF00)
-
----
 
 </div>
 
