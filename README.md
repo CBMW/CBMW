@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Cody:CBMW:Dubai</h1>
-  <p><strong>I'm a software developer</strong> and <strong>cybersecurity researcher</strong> with a growing passion for <strong>automation, web development</strong> 
+  <p><strong>I'm a software developer</strong> and <strong>cybersecurity researcher</strong> with a growing passion for <strong>automation development</strong> 
     and <strong>penetration testing. Addicted to learning, I'm here to make an impact in the cyber security community with secure development of code.</strong>.</p>
 </div>
 
@@ -51,7 +51,7 @@
 
 ---
 
-<div align="center>
+<div align="center">
   
 ###  **Cybersecurity Tools & Platforms**
 ![Wireshark](https://img.shields.io/badge/Wireshark-101010?style=for-the-badge&logo=wireshark&logoColor=00FF00)
