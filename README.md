@@ -11,7 +11,6 @@
 ![Debian](https://img.shields.io/badge/Debian-101010?style=for-the-badge&logo=debian&logoColor=00FF00)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-101010?style=for-the-badge&logo=kali-linux&logoColor=00FF00)
 ![Windows 11](https://img.shields.io/badge/Windows_11-101010?style=for-the-badge&logo=windows-11&logoColor=00FF00)
-![Windows XP](https://img.shields.io/badge/Windows_XP-101010?style=for-the-badge&logo=windows-xp&logoColor=00FF00)
 ![iOS](https://img.shields.io/badge/iOS-101010?style=for-the-badge&logo=ios&logoColor=00FF00)
 ![Android](https://img.shields.io/badge/Android-101010?style=for-the-badge&logo=android&logoColor=00FF00)
 
