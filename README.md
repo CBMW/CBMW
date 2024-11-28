@@ -41,6 +41,17 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-101010?style=for-the-badge&logo=eclipse&logoColor=00FF00)
 ![RStudio](https://img.shields.io/badge/RStudio-101010?style=for-the-badge&logo=rstudio&logoColor=00FF00)
 
+</div>
+
+
+
+---
+
+<div align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/cbmw.png" alt="TryHackMe" /></div>
+
+---
+<div align="center>
+  
 ###  **Cybersecurity Tools & Platforms**
 ![Wireshark](https://img.shields.io/badge/Wireshark-101010?style=for-the-badge&logo=wireshark&logoColor=00FF00)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-101010?style=for-the-badge&logo=burpsuite&logoColor=00FF00)
@@ -56,15 +67,6 @@
 ![Dogecoin](https://img.shields.io/badge/Dogecoin-101010?style=for-the-badge&logo=dogecoin&logoColor=00FF00)
 
 </div>
-
-
-
----
-
-<div align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/cbmw.png" alt="TryHackMe" /></div>
-
----
-
 <!-- CONTACT ME SECTION -->
 
 ### 🌐 Connect with Me 🌐
