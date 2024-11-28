@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Cody:CBMW:Dubai</h1>
-  <p><strong>software developer</strong> and <strong>cybersecurity researcher</strong> with a growing passion for <strong>automation, web development</strong> and <strong>penetration testing</strong>.</p>
+  <p><strong>I'm a software developer</strong> and <strong>cybersecurity researcher</strong> with a growing passion for <strong>automation, web development</strong> 
+    and <strong>penetration testing. Addicted to learning, I'm here to make an impact in the cyber security community with secure development of code.</strong>.</p>
 </div>
 
 ---
