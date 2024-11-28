@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>I'm Cody</h1>
-  <p>I'm a <strong>software developer</strong> and <strong>cybersecurity researcher</strong> with a growing passion for <strong>automation, web development</strong> and <strong>penetration testing</strong>.</p>
+  <h1>Cody:CBMW:Dubai</h1>
+  <p><strong>software developer</strong> and <strong>cybersecurity researcher</strong> with a growing passion for <strong>automation, web development</strong> and <strong>penetration testing</strong>.</p>
 </div>
 
 ---
