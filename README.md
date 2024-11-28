@@ -1,6 +1,7 @@
-# 👋 I'm Cody
-
-I'm a **software developer** and **cybersecurity researcher** with a growing passion for **automation, web development** and **penetration testing**.
+<div align="center">
+  <h1>I'm Cody</h1>
+  <p>I'm a <strong>software developer</strong> and <strong>cybersecurity researcher</strong> with a growing passion for <strong>automation, web development</strong> and <strong>penetration testing</strong>.</p>
+</div>
 
 ---
 <div align="center">
