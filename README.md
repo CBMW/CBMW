@@ -40,6 +40,13 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-101010?style=for-the-badge&logo=pycharm&logoColor=00FF00)
 ![Eclipse](https://img.shields.io/badge/Eclipse-101010?style=for-the-badge&logo=eclipse&logoColor=00FF00)
 ![RStudio](https://img.shields.io/badge/RStudio-101010?style=for-the-badge&logo=rstudio&logoColor=00FF00)
+  
+###  **Cybersecurity Tools & Platforms**
+![Wireshark](https://img.shields.io/badge/Wireshark-101010?style=for-the-badge&logo=wireshark&logoColor=00FF00)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-101010?style=for-the-badge&logo=burpsuite&logoColor=00FF00)
+![Metasploit](https://img.shields.io/badge/Metasploit-101010?style=for-the-badge&logo=metasploit&logoColor=00FF00)
+![Tor Browser](https://img.shields.io/badge/Tor_Browser-101010?style=for-the-badge&logo=torbrowser&logoColor=00FF00)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-101010?style=for-the-badge&logo=tryhackme&logoColor=00FF00)
 
 </div>
 
@@ -50,17 +57,6 @@
 <div align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/cbmw.png" alt="TryHackMe" /></div>
 
 ---
-
-<div align="center">
-  
-###  **Cybersecurity Tools & Platforms**
-![Wireshark](https://img.shields.io/badge/Wireshark-101010?style=for-the-badge&logo=wireshark&logoColor=00FF00)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-101010?style=for-the-badge&logo=burpsuite&logoColor=00FF00)
-![Metasploit](https://img.shields.io/badge/Metasploit-101010?style=for-the-badge&logo=metasploit&logoColor=00FF00)
-![Tor Browser](https://img.shields.io/badge/Tor_Browser-101010?style=for-the-badge&logo=torbrowser&logoColor=00FF00)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-101010?style=for-the-badge&logo=tryhackme&logoColor=00FF00)
-
-</div>
 
 <!-- CONTACT ME SECTION -->
 
