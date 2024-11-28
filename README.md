@@ -85,7 +85,7 @@ Let's connect and create something innovative together!
 
 <div>
   <p>
-    <a href="mailto:president@unecsc.com" target="_blank">
+    <a href="mailto:cbmw@proton.me" target="_blank">
       <img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email Me">
     </a>
     <br>
