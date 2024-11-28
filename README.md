@@ -59,13 +59,6 @@
 ![Tor Browser](https://img.shields.io/badge/Tor_Browser-101010?style=for-the-badge&logo=torbrowser&logoColor=00FF00)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-101010?style=for-the-badge&logo=tryhackme&logoColor=00FF00)
 
-###  **Cryptocurrency**
-![Bitcoin](https://img.shields.io/badge/Bitcoin-101010?style=for-the-badge&logo=bitcoin&logoColor=00FF00)
-![Ethereum](https://img.shields.io/badge/Ethereum-101010?style=for-the-badge&logo=ethereum&logoColor=00FF00)
-![Monero](https://img.shields.io/badge/Monero-101010?style=for-the-badge&logo=monero&logoColor=00FF00)
-![Litecoin](https://img.shields.io/badge/Litecoin-101010?style=for-the-badge&logo=litecoin&logoColor=00FF00)
-![Dogecoin](https://img.shields.io/badge/Dogecoin-101010?style=for-the-badge&logo=dogecoin&logoColor=00FF00)
-
 </div>
 <!-- CONTACT ME SECTION -->
 
