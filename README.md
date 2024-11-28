@@ -17,7 +17,6 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
----
 
 ### 💻 Programming and Scripting 💻
 
@@ -31,7 +30,6 @@
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
----
 
 ### 🗄️ Databases 🗄️
 
@@ -41,7 +39,6 @@
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-181818?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
 
 ### 🖥️ Development Tools 🖥️
 
@@ -53,7 +50,6 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 
----
 
 ### 🔐 Cybersecurity Tools & Platforms 🔐
 
@@ -63,7 +59,6 @@
 ![Tor Browser](https://img.shields.io/badge/-Tor%20Browser-%237D4698?style=for-the-badge&logo=torbrowser&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
----
 
 ### 💰 Cryptocurrency 💰
 
