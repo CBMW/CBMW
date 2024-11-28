@@ -2,8 +2,10 @@
   <h1>Cody:CBMW:Dubai</h1>
   <p><strong>software developer</strong> and <strong>cybersecurity researcher</strong> with a growing passion for <strong>automation, web development</strong> and <strong>penetration testing</strong>.</p>
 </div>
+
+---  
+
 <div align=center>
----
 ### ⚙️ Operating Systems ⚙️
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
