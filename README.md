@@ -19,15 +19,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101010?style=for-the-badge&logo=postgresql&logoColor=00FF00)
 ![Supabase](https://img.shields.io/badge/Supabase-101010?style=for-the-badge&logo=supabase&logoColor=00FF00)
 ![MongoDB](https://img.shields.io/badge/MongoDB-101010?style=for-the-badge&logo=mongodb&logoColor=00FF00)
-
-###  **Development Tools**
 ![Git](https://img.shields.io/badge/GIT-101010?style=for-the-badge&logo=git&logoColor=00FF00)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-101010?style=for-the-badge&logo=visual%20studio%20code&logoColor=00FF00)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-101010?style=for-the-badge&logo=intellij-idea&logoColor=00FF00)
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-101010?style=for-the-badge&logo=sublime-text&logoColor=00FF00)
-![PyCharm](https://img.shields.io/badge/PyCharm-101010?style=for-the-badge&logo=pycharm&logoColor=00FF00)
-![Eclipse](https://img.shields.io/badge/Eclipse-101010?style=for-the-badge&logo=eclipse&logoColor=00FF00)
-![RStudio](https://img.shields.io/badge/RStudio-101010?style=for-the-badge&logo=rstudio&logoColor=00FF00)
   
 ###  **Cybersecurity Tools & Platforms**
 ![Wireshark](https://img.shields.io/badge/Wireshark-101010?style=for-the-badge&logo=wireshark&logoColor=00FF00)
