@@ -15,7 +15,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-101010?style=for-the-badge&logo=css3&logoColor=00FF00)
 ![C](https://img.shields.io/badge/C-101010?style=for-the-badge&logo=c&logoColor=00FF00)
 ![C#](https://img.shields.io/badge/C%23-101010?style=for-the-badge&logo=csharp&logoColor=00FF00)
-![JSON](https://img.shields.io/badge/json-101010?style=for-the-badge&logo=json&logoColor=00FF00)
 ![Powershell](https://img.shields.io/badge/Powershell-101010?style=for-the-badge&logo=powershell&logoColor=00FF00)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101010?style=for-the-badge&logo=postgresql&logoColor=00FF00)
 ![Supabase](https://img.shields.io/badge/Supabase-101010?style=for-the-badge&logo=supabase&logoColor=00FF00)
