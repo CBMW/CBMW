@@ -7,7 +7,7 @@
 ---
 <div align="center">
 
-###  **Programming and Scripting**
+###  **Tech Stack**
 ![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=00FF00)
 ![Java](https://img.shields.io/badge/Java-101010?style=for-the-badge&logo=openjdk&logoColor=00FF00)
 ![R](https://img.shields.io/badge/R-101010?style=for-the-badge&logo=r&logoColor=00FF00)
@@ -17,10 +17,6 @@
 ![C#](https://img.shields.io/badge/C%23-101010?style=for-the-badge&logo=csharp&logoColor=00FF00)
 ![JSON](https://img.shields.io/badge/json-101010?style=for-the-badge&logo=json&logoColor=00FF00)
 ![Powershell](https://img.shields.io/badge/Powershell-101010?style=for-the-badge&logo=powershell&logoColor=00FF00)
-
-###  **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-101010?style=for-the-badge&logo=mysql&logoColor=00FF00)
-![SQLite](https://img.shields.io/badge/SQLite-101010?style=for-the-badge&logo=sqlite&logoColor=00FF00)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101010?style=for-the-badge&logo=postgresql&logoColor=00FF00)
 ![Supabase](https://img.shields.io/badge/Supabase-101010?style=for-the-badge&logo=supabase&logoColor=00FF00)
 ![MongoDB](https://img.shields.io/badge/MongoDB-101010?style=for-the-badge&logo=mongodb&logoColor=00FF00)
