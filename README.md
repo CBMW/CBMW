@@ -7,7 +7,7 @@
 ---
 <div align="center">
 
-###  **Tech Stack**
+###  **.Tech Stack.**
 ![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=00FF00)
 ![Java](https://img.shields.io/badge/Java-101010?style=for-the-badge&logo=openjdk&logoColor=00FF00)
 ![R](https://img.shields.io/badge/R-101010?style=for-the-badge&logo=r&logoColor=00FF00)
