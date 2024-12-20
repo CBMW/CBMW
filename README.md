@@ -21,7 +21,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-101010?style=for-the-badge&logo=mongodb&logoColor=00FF00)
 ![Git](https://img.shields.io/badge/GIT-101010?style=for-the-badge&logo=git&logoColor=00FF00)
   
-###  **Cybersecurity Tools & Platforms**
+###  **.Cybersecurity Tools & Platforms.**
 ![Wireshark](https://img.shields.io/badge/Wireshark-101010?style=for-the-badge&logo=wireshark&logoColor=00FF00)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-101010?style=for-the-badge&logo=burpsuite&logoColor=00FF00)
 ![Metasploit](https://img.shields.io/badge/Metasploit-101010?style=for-the-badge&logo=metasploit&logoColor=00FF00)
