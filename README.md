@@ -34,7 +34,7 @@
 
 ---
 
-<div align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/cbmw.png" alt="TryHackMe" /></div>
+<div align="center">![Top4%](https://github.com/CBMW/CBMW/blob/main/Top4%25.png?raw=true)</div>
 
 ---
 
