@@ -34,7 +34,7 @@
 
 ---
 
-<div align="center">![Top4%](https://github.com/CBMW/CBMW/blob/main/Top4%25.png?raw=true)</div>
+<div align="center"><img src="https://github.com/CBMW/CBMW/blob/main/Top4%25.png?raw=true" alt="Top4%" width="400"/></div>
 
 ---
 
