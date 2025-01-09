@@ -34,7 +34,7 @@
 
 ---
 
-<div align="center"><img src="https://github.com/CBMW/CBMW/blob/main/Top4%25.png?raw=true" alt="Top4%" width="1000"/></div>
+<div align="center"><img src="https://github.com/CBMW/CBMW/blob/main/Top3%THM.png?raw=true" alt="Top4%" width="1000"/></div>
 
 ---
 
