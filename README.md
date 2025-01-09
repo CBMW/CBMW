@@ -34,7 +34,7 @@
 
 ---
 
-<div align="center"><img src="https://github.com/CBMW/CBMW/blob/main/Top3%THM.png?raw=true" alt="Top4%" width="1000"/></div>
+<div align="center"><img src="https://github.com/CBMW/CBMW/blob/300d1cdee6fb96b064419429ccc460e633d0d0ed/Top3%25.png" alt="Top 3% TryHackMe" width="1000"/></div>
 
 ---
 
