@@ -19,7 +19,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101010?style=for-the-badge&logo=postgresql&logoColor=00FF00)
 ![Supabase](https://img.shields.io/badge/Supabase-101010?style=for-the-badge&logo=supabase&logoColor=00FF00)
 ![MongoDB](https://img.shields.io/badge/MongoDB-101010?style=for-the-badge&logo=mongodb&logoColor=00FF00)
-![Git](https://img.shields.io/badge/GIT-101010?style=for-the-badge&logo=git&logoColor=00FF00)
 ![Flutter](https://img.shields.io/badge/Flutter-101010?style=for-the-badge&logo=flutter&logoColor=00FF00)
 ![React](https://img.shields.io/badge/React-101010?style=for-the-badge&logo=react&logoColor=00FF00)
   
