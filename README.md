@@ -20,7 +20,10 @@
 ![Supabase](https://img.shields.io/badge/Supabase-101010?style=for-the-badge&logo=supabase&logoColor=00FF00)
 ![MongoDB](https://img.shields.io/badge/MongoDB-101010?style=for-the-badge&logo=mongodb&logoColor=00FF00)
 ![Git](https://img.shields.io/badge/GIT-101010?style=for-the-badge&logo=git&logoColor=00FF00)
+![Flutter](https://img.shields.io/badge/Flutter-101010?style=for-the-badge&logo=flutter&logoColor=00FF00)
+![React](https://img.shields.io/badge/React-101010?style=for-the-badge&logo=react&logoColor=00FF00)
   
+
 ###  **.Cybersecurity Tools & Platforms.**
 ![Wireshark](https://img.shields.io/badge/Wireshark-101010?style=for-the-badge&logo=wireshark&logoColor=00FF00)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-101010?style=for-the-badge&logo=burpsuite&logoColor=00FF00)
