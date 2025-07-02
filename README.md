@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Cody:Dubai</h1>
-  <p><strong>I'm a software developer</strong> and <strong>cybersecurity researcher</strong> with a growing passion for <strong>automation development</strong> 
-    and <strong>penetration testing. Addicted to learning, avid CTF player and self published Author.</strong>.</p>
+  
 </div>
 
 ---
