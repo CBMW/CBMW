@@ -9,7 +9,6 @@
 ###  **.Tech Stack.**
 ![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=00FF00)
 ![Java](https://img.shields.io/badge/Java-101010?style=for-the-badge&logo=openjdk&logoColor=00FF00)
-![R](https://img.shields.io/badge/R-101010?style=for-the-badge&logo=r&logoColor=00FF00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=00FF00)
 ![CSS3](https://img.shields.io/badge/CSS3-101010?style=for-the-badge&logo=css3&logoColor=00FF00)
 ![C](https://img.shields.io/badge/C-101010?style=for-the-badge&logo=c&logoColor=00FF00)
@@ -17,7 +16,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101010?style=for-the-badge&logo=postgresql&logoColor=00FF00)
 ![Supabase](https://img.shields.io/badge/Supabase-101010?style=for-the-badge&logo=supabase&logoColor=00FF00)
 ![MongoDB](https://img.shields.io/badge/MongoDB-101010?style=for-the-badge&logo=mongodb&logoColor=00FF00)
-![Flutter](https://img.shields.io/badge/Flutter-101010?style=for-the-badge&logo=flutter&logoColor=00FF00)
 ![React](https://img.shields.io/badge/React-101010?style=for-the-badge&logo=react&logoColor=00FF00)
   
 
