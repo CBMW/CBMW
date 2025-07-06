@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>:Dubai:</h1>
+ # :Dubai:
   
 </div>
 
@@ -10,12 +10,11 @@
 ![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=00FF00)
 ![Java](https://img.shields.io/badge/Java-101010?style=for-the-badge&logo=openjdk&logoColor=00FF00)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=00FF00)  
+![React](https://img.shields.io/badge/React-101010?style=for-the-badge&logo=react&logoColor=00FF00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=00FF00)
-![CSS3](https://img.shields.io/badge/CSS3-101010?style=for-the-badge&logo=css3&logoColor=00FF00)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101010?style=for-the-badge&logo=postgresql&logoColor=00FF00)
 ![Supabase](https://img.shields.io/badge/Supabase-101010?style=for-the-badge&logo=supabase&logoColor=00FF00)
 ![MongoDB](https://img.shields.io/badge/MongoDB-101010?style=for-the-badge&logo=mongodb&logoColor=00FF00)
-![React](https://img.shields.io/badge/React-101010?style=for-the-badge&logo=react&logoColor=00FF00)
   
 
 ###  **.Cybersecurity Tools & Platforms.**
