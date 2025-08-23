@@ -16,7 +16,8 @@
 ![Supabase](https://img.shields.io/badge/Supabase-101010?style=for-the-badge&logo=supabase&logoColor=00FF00)
 ![MongoDB](https://img.shields.io/badge/MongoDB-101010?style=for-the-badge&logo=mongodb&logoColor=00FF00)
   
-
+### **.Certifications.**  
+![Security+](https://img.shields.io/badge/Security+-101010?style=for-the-badge&logo=comptia&logoColor=00FF00)  
 </div>
 
 
