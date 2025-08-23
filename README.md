@@ -9,7 +9,7 @@
 ###  **.Tech Stack.**
 ![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=00FF00)
 ![Java](https://img.shields.io/badge/Java-101010?style=for-the-badge&logo=openjdk&logoColor=00FF00)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=00FF00)  
+![Rust](https://img.shields.io/badge/Rust-101010?style=for-the-badge&logo=rust&logoColor=00FF00)    
 ![React](https://img.shields.io/badge/React-101010?style=for-the-badge&logo=react&logoColor=00FF00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=00FF00)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101010?style=for-the-badge&logo=postgresql&logoColor=00FF00)
