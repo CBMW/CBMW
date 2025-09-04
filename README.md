@@ -17,7 +17,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-101010?style=for-the-badge&logo=mongodb&logoColor=00FF00)
   
 ### **.Certifications.**  
-![Security+](https://img.shields.io/badge/Security+-101010?style=for-the-badge&logo=comptia&logoColor=00FF00)  
+![Security+](https://img.shields.io/badge/Security+-101010?style=for-the-badge&logo=comptia&logoColor=00FF00)
 ![HTB: CWES](https://img.shields.io/badge/HTB%3A%20CWES-101010?style=for-the-badge&logo=hackthebox&logoColor=00FF00)  
 
 </div>
