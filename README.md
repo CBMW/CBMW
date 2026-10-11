@@ -6,15 +6,17 @@
 ---
 <div align="center">
 
-###  **.Tech Stack.**
+### **.Tech Stack.**
 ![Python](https://img.shields.io/badge/Python-101010?style=for-the-badge&logo=python&logoColor=00FF00)
 ![Java](https://img.shields.io/badge/Java-101010?style=for-the-badge&logo=openjdk&logoColor=00FF00)
-![Rust](https://img.shields.io/badge/Rust-101010?style=for-the-badge&logo=rust&logoColor=00FF00) 
+![C++](https://img.shields.io/badge/C%2B%2B-101010?style=for-the-badge&logo=cplusplus&logoColor=00FF00)
+![C](https://img.shields.io/badge/C-101010?style=for-the-badge&logo=c&logoColor=00FF00)
 ![JavaScript](https://img.shields.io/badge/JavaScript-101010?style=for-the-badge&logo=javascript&logoColor=00FF00)
-  
-### **.Certifications.**  
+
+### **.Certifications.**
 ![Security+](https://img.shields.io/badge/Security+-101010?style=for-the-badge&logo=comptia&logoColor=00FF00)
-![HTB: CWES](https://img.shields.io/badge/HTB%3A%20CWES-101010?style=for-the-badge&logo=hackthebox&logoColor=00FF00)  
+![HTB: CWES](https://img.shields.io/badge/HTB%3A%20CWES-101010?style=for-the-badge&logo=hackthebox&logoColor=00FF00)
+![CARTP](https://img.shields.io/badge/CARTP-101010?style=for-the-badge&logo=microsoftazure&logoColor=00FF00)
 
 </div>
 
